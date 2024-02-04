@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"871aeb22ff4a9c9c","x":140,"y":30,"width":105,"height":100,"type":"text","text":"IoT"},
+		{"id":"0d7219856ef192a2","x":-220,"y":-30,"width":250,"height":60,"type":"text","text":"Block chain"},
+		{"id":"fb654439f567ad21","x":-129,"y":88,"width":374,"height":192,"type":"text","text":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/aUzpiiD4BDY?si=YIbnudLu66O44Apn\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n"}
+	],
+	"edges":[
+		{"id":"8b16899a594a638d","fromNode":"871aeb22ff4a9c9c","fromSide":"top","toNode":"0d7219856ef192a2","toSide":"right"}
+	]
+}
